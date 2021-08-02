@@ -3,6 +3,11 @@
     "colors_accent_1": "#1878b9",
     "colors_accent_2": "#e22120",
     "type_header_font": "questrial_n4",
+    "social_twitter_link": "https:\/\/twitter.com\/pezcandyusa",
+    "social_facebook_link": "https:\/\/facebook.com\/pezcandyusa",
+    "social_instagram_link": "https:\/\/instagram.com\/pezcandyusa",
+    "social_tiktok_link": "https:\/\/tiktok.com\/pezcandyusa",
+    "social_youtube_link": "https:\/\/youtube.com\/pezcandyusa",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
