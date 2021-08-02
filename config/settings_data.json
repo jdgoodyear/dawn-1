@@ -8,6 +8,7 @@
     "social_instagram_link": "https:\/\/instagram.com\/pezcandyusa",
     "social_tiktok_link": "https:\/\/tiktok.com\/pezcandyusa",
     "social_youtube_link": "https:\/\/youtube.com\/pezcandyusa",
+    "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

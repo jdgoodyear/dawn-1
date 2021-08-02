@@ -10,18 +10,26 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 24,
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
-        "show_vendor": false,
+        "show_vendor": true,
         "enable_filtering": true,
         "enable_sorting": true
+      }
+    },
+    "1627912789cee26970": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
       }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "1627912789cee26970"
   ]
 }
