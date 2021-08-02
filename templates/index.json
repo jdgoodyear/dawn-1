@@ -6,31 +6,19 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Just Added!"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/space-jam",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": ""
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/SpaceJam_2pk_Web_Feature.jpg",
         "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "stack_images_on_mobile": false,
-        "adapt_height_first_image": false
+        "adapt_height_first_image": true
       }
     },
     "featured_products": {
@@ -46,77 +34,10 @@
         "add_image_padding": false,
         "show_vendor": false
       }
-    },
-    "image_text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "16279120683e046a47": {
-      "type": "newsletter",
-      "blocks": {
-        "16279120683e046a47-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails"
-          }
-        },
-        "16279120683e046a47-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "16279120683e046a47-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16279120683e046a47-0",
-        "16279120683e046a47-1",
-        "16279120683e046a47-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
     "image_banner",
-    "featured_products",
-    "image_text",
-    "16279120683e046a47"
+    "featured_products"
   ]
 }
